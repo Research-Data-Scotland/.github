@@ -21,9 +21,7 @@ Visit our website: [researchdata.scot](https://researchdata.scot)
 Some of the repositories you may find here include:
 
 - **Synthetic Data Generation**: Tools and pipelines to create privacy-preserving synthetic datasets.
-- **MetadataWorks Integration**: Utilities for working with metadata in secure data environments.
 - **Reproducible Analytical Pipelines (RAP)**: Scripts and documentation for reproducible workflows in R and Python.
-- **Public Engagement Fund Scoresheets**: Scoring automation tools for funding applications.
 
 > Each project contains its own documentation and setup instructions.
 
