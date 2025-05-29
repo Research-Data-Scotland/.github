@@ -6,7 +6,7 @@ Welcome to the official GitHub page of **Research Data Scotland (RDS)**. We prov
 
 Research Data Scotland is a not-for-profit organisation that works with the public sector to make data accessible, while safeguarding privacy. We support safe and ethical data sharing to help improve public services, policy, and population health.
 
-Visit our website: <a href="https://researchdata.scot" target="_blank">researchdata.scot</a>
+Visit our website: [researchdata.scot](https://researchdata.scot)
 
 ## 🧠 What We Do
 
@@ -38,8 +38,8 @@ We welcome contributions that align with our mission of safe and ethical data us
 ## 👥 Contact
 
 * 📧 Email: [info@researchdata.scot](mailto:info@researchdata.scot)
-* 🐦 Twitter/X: <a href="https://twitter.com/RDS_Scotland" target="_blank">@RDS\_Scotland</a>
-* 🌐 Website: <a href="https://researchdata.scot" target="_blank">[https://researchdata.scot](https://researchdata.scot)</a>
+* 🐦 Twitter/X: [@RDS\_Scotland](https://twitter.com/RDS_Scotland)
+* 🌐 Website: [https://researchdata.scot](https://researchdata.scot)
 
 ---
 
