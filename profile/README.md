@@ -38,7 +38,7 @@ We welcome contributions that align with our mission of safe and ethical data us
 ## 👥 Contact
 
 * 📧 Email: [info@researchdata.scot](mailto:info@researchdata.scot)
-* 🕎 Twitter/X: <a href="https://twitter.com/RDS_Scotland" target="_blank">@RDS\_Scotland</a>
+* 🐦 Twitter/X: <a href="https://twitter.com/RDS_Scotland" target="_blank">@RDS\_Scotland</a>
 * 🌐 Website: <a href="https://researchdata.scot" target="_blank">[https://researchdata.scot](https://researchdata.scot)</a>
 
 ---
