@@ -6,22 +6,22 @@ Welcome to the official GitHub page of **Research Data Scotland (RDS)**. We prov
 
 Research Data Scotland is a not-for-profit organisation that works with the public sector to make data accessible, while safeguarding privacy. We support safe and ethical data sharing to help improve public services, policy, and population health.
 
-Visit our website: [researchdata.scot](https://researchdata.scot)
+Visit our website: <a href="https://researchdata.scot" target="_blank">researchdata.scot</a>
 
 ## 🧠 What We Do
 
-- Facilitate access to Scottish public sector datasets
-- Support safe data linkage and governance
-- Develop tools for synthetic data generation and metadata management
-- Promote reproducible research and secure data environments
-- Provide user training, support, and collaboration opportunities
+* Facilitate access to Scottish public sector datasets
+* Support safe data linkage and governance
+* Develop tools for synthetic data generation and metadata management
+* Promote reproducible research and secure data environments
+* Provide user training, support, and collaboration opportunities
 
 ## 📂 Projects
 
 Some of the repositories you may find here include:
 
-- **Synthetic Data Generation**: Tools and pipelines to create privacy-preserving synthetic datasets.
-- **Reproducible Analytical Pipelines (RAP)**: Scripts and documentation for reproducible workflows in R and Python.
+* **Synthetic Data Generation**: Tools and pipelines to create privacy-preserving synthetic datasets.
+* **Reproducible Analytical Pipelines (RAP)**: Scripts and documentation for reproducible workflows in R and Python.
 
 > Each project contains its own documentation and setup instructions.
 
@@ -37,9 +37,9 @@ We welcome contributions that align with our mission of safe and ethical data us
 
 ## 👥 Contact
 
-- 📧 Email: info@researchdata.scot
-- 🐦 Twitter/X: [@RDS_Scotland](https://twitter.com/RDS_Scotland)
-- 🌐 Website: [https://researchdata.scot](https://researchdata.scot)
+* 📧 Email: [info@researchdata.scot](mailto:info@researchdata.scot)
+* 🕎 Twitter/X: <a href="https://twitter.com/RDS_Scotland" target="_blank">@RDS\_Scotland</a>
+* 🌐 Website: <a href="https://researchdata.scot" target="_blank">[https://researchdata.scot](https://researchdata.scot)</a>
 
 ---
 
